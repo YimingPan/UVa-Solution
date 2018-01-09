@@ -5,4 +5,4 @@ This repository contains the codes and explanations of the problems on [UVa OJ](
 ## TODO
 
 - [ ] Prove the solution of 11292
-- [ ] Rewrite 1388.cc to make it more elegant
+- [x] Rewrite 1388.cc to make it more elegant
